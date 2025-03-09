@@ -1,0 +1,7 @@
+{
+    "configurations": [
+    
+    ]
+}npx create-react-app reference-letters --template minimal
+cd reference-letters
+npm install docx file-saver
